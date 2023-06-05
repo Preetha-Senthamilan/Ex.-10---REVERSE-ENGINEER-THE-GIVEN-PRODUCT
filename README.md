@@ -31,7 +31,8 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![ultimakercura](https://github.com/Preetha-Senthamilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119390282/bdeae9fd-24f3-4566-9794-816213e4de1d)
+![door](https://github.com/Preetha-Senthamilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119390282/f075d384-ea69-42f7-a850-e6bbc00f0b47)
+
 
 ### Output:
 ![door knob output](https://github.com/Preetha-Senthamilan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119390282/66ce7d95-bd7c-4ea1-9292-4616269d8ac9)
